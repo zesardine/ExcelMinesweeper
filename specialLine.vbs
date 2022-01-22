@@ -1,0 +1,1 @@
+Public Declare PtrSafe Function GetAsyncKeyState Lib "user32" (ByVal vKey As LongPtr) As Integer
